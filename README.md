@@ -1,2 +1,2 @@
 # LookingGlassQuitRecorder
-Looking Glass Portraitにおいて，Unity上でQuit動画をRecordするためのスクリプト
+Looking Glass Portraitにおいて，Unity上でQuilt動画をRecordするためのスクリプト
